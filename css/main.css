@@ -8,7 +8,7 @@ body {
     -o-background-size: cover;
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: 'Arvo', serif;;
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -26,7 +26,7 @@ a:hover {
 }
 h1 {
     font-size: 1em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Arvo', serif;
 }
 p {
     font-size: 0.8em;
