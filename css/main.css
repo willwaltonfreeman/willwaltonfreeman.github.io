@@ -8,7 +8,7 @@ body {
     -o-background-size: cover;
 }
 nav ul, footer ul {
-    font-family: 'Arvo', serif;;
+    font-family: 'Arvo', serif;
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -29,6 +29,7 @@ h1 {
     font-family:'Arvo', serif;
 }
 p {
+    font-family: 'arvo', serif;
     font-size: 0.8em;
     line-height: 1.4em;
     color: #333;
