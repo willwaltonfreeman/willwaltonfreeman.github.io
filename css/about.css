@@ -85,8 +85,8 @@ ul.posts li {
     grid-row-end: 5;
 }
 .gallery__item--6 {
-    grid-column-start: 3;
-    grid-column-end: 5;
+    grid-column-start: 5;
+    grid-column-end: 7;
     grid-row-start: 3;
     grid-row-end: 5;
 }
