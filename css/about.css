@@ -43,3 +43,9 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    grid-template-rows: repeat(8, 5vw);
+    grid-gap: 15px;
+}
