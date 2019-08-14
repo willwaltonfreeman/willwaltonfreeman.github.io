@@ -90,7 +90,6 @@ ul.posts li {
     grid-row-start: 3;
     grid-row-end: 5;
 }
-}
 .gallery__item--7 {
     grid-column-start: 5;
     grid-column-end: 7;
